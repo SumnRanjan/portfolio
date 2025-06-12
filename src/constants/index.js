@@ -151,7 +151,7 @@ const expCards = [
         imgPath: "/images/logo.png  ",
         logoPath: "/images/logo1.png",
         title: "Frontend Developer",
-        date: "February 2024 – July 2025",
+        date: "February 2024 – July 2024",
         responsibilities: [
             "Built a feature-rich e-commerce platform using React, TailwindCSS, Redux, and Express.js",
             "Implemented authentication, product filtering, cart, and order management features.",
