@@ -173,8 +173,8 @@ const expCards = [
     },
     {
         review: "Suman built a custom Git-like version control system using Java, demonstrating strong problem-solving skills and a deep understanding of core software development concepts such as file tracking, versioning, and command-line tools.",
-        imgPath: "/images/github.webp",
-        logoPath: "/images/git.png",
+        imgPath: "/images/githubbb.png",
+        logoPath: "/images/githubb.png",
         title: "Java Developer — Git System Project",
         date: "June 2025 - Present",
         responsibilities: [
@@ -268,6 +268,11 @@ const socialImgs = [
         imgPath: "/images/linkedin.png",
         link: "https://www.linkedin.com/in/suman-ranjan-profile/",
     },
+    {
+        name:"github",
+        imgPath: "/images/githubb.png",
+        link: "https://github.com/suman-ranjan",
+    }
 ];
 
 export {

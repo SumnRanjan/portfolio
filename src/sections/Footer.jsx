@@ -16,7 +16,7 @@ const Footer = () => {
                             rel="noopener noreferrer"
                             className="icon"
                         >
-                            <img src={socialImg.imgPath} alt="social icon" />
+                            <img src={socialImg.imgPath} alt="social icon" className=" w-[30px]" />
                         </a>
                     ))}
                 </div>
