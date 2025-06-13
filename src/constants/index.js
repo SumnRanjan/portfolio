@@ -29,11 +29,12 @@ const words = [
 ];
 
 const counterItems = [
-    { value: 6, suffix: "+", label: "Months of Experience" },
-    { value: 10, suffix: "+", label: "Satisfied Clients" },
-    { value: 10, suffix: "+", label: "Completed Projects" },
-    { value: 70, suffix: "%", label: "Client Retention Rate" },
+    { value: 12, suffix: "+", label: "Months of Learning & Practice" },
+    { value: 500, suffix: "+", label: "DSA Problems Solved" },
+    { value: 5, suffix: "+", label: "Personal Projects Built" },
+    { value: 3, suffix: "+", label: "Tech Stacks Explored (MERN, SQL, etc.)" },
 ];
+
 
 const logoIconsList = [
     {
@@ -70,22 +71,21 @@ const logoIconsList = [
         imgPath: "/images/logos/company-logo-11.png",
     },
 ];
-
 const abilities = [
     {
-        imgPath: "/images/seo.png",
-        title: "Quality Focus",
-        desc: "Delivering high-quality results while maintaining attention to every detail.",
+        imgPath: "/images/logos/node.png",
+        title: "Strong Coding Skills",
+        desc: "Proficient in Java, C++, and JavaScript with a solid foundation in Data Structures, Algorithms, and problem-solving.",
     },
     {
-        imgPath: "/images/chat.png",
-        title: "Reliable Communication",
-        desc: "Keeping you updated at every step to ensure transparency and clarity.",
+        imgPath: "/images/logo2.png",
+        title: "Full-Stack Development",
+        desc: "Experienced in building scalable web apps using the MERN stack, REST APIs, and modern frontend tools like React and Tailwind CSS.",
     },
     {
-        imgPath: "/images/time.png",
-        title: "On-Time Delivery",
-        desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+        imgPath: "/images/logo3.png",
+        title: "Database Management",
+        desc: "Skilled in designing efficient databases with MySQL, MongoDB, and handling backend logic with Node.js and Express.",
     },
 ];
 
